@@ -34,18 +34,8 @@ This project demonstrates a complete Azure Data Engineering pipeline using moder
 - Analytics-ready data processing
 - End-to-end Azure integration
 
-## 📁 Folder Structure
 
-```bash
-├── data/
-├── notebooks/
-├── pipelines/
-├── scripts/
-├── screenshots/
-└── README.md
-
-
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 1. Open the project in your preferred IDE
 2. Configure Azure services:
     Azure Data Factory
@@ -55,7 +45,7 @@ This project demonstrates a complete Azure Data Engineering pipeline using moder
 3. Upload datasets to Azure Data Lake
 4. Execute pipelines and notebooks
 
-📊 Learning Outcomes
+## 📊 Learning Outcomes
 Through this project, I learned:
   Building cloud-based data pipelines
   Working with Azure Data Factory
