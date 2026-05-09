@@ -2,11 +2,6 @@
 
 This repository contains my implementation of the Azure End-to-End Data Engineering project inspired by the YouTube tutorial below.
 
-## 📺 Project Reference
-
-Tutorial followed from YouTube:  
-https://www.youtube.com/watch?v=0GTZ-12hYtU
-
 ## 🚀 Project Overview
 
 This project demonstrates a complete Azure Data Engineering pipeline using modern cloud technologies and data processing tools. The workflow includes data ingestion, transformation, storage, and analytics.
